@@ -1,5 +1,4 @@
-This repository contains DNS data for the flow past two square cylinders used in Lee (2025, under editorial review).
-The computational setup is based on [this literature](https://doi.org/10.1063/1.4979134). This multi-fidelity dataset can be used for uncertainty quantification (UQ) and surrogate modelling exercises.
+This repository contains DNS data for the flow past two square cylinders used in [Lee(2025)](https://doi.org/10.1103/PhysRevFluids.10.024703). This multi-fidelity dataset can be used for uncertainty quantification (UQ) and surrogate modelling exercises.
 
 # Dataset overview
 The dataset includes the mean velocity field (both $U_x$ and $U_y$, normalised) from 200 simulations spanning a wide range of input parameters:
